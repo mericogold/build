@@ -280,3 +280,8 @@ We welcome and appreciate contributions. Feel free to find your own way and put 
 ## License
 
 Build is [Apache 2.0 licensed](<https://github.com/merico-dev/build/blob/master/LICENSE>)
+
+## Testing
+
+This is an edit to test notifications related to submitting a PR. Please reject it.
+
